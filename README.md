@@ -11,7 +11,7 @@
 
 ### Programming Languages  :rocket:
 |<img src="https://github.com/NuttaponChetyai/NuttaponChetyai/blob/master/images/programming_languages/javascript.png" width=60> | <img src="https://github.com/NuttaponChetyai/NuttaponChetyai/blob/master/images/programming_languages/csharp.png" width=60> |<img src="https://github.com/NuttaponChetyai/NuttaponChetyai/blob/master/images/programming_languages/html.png" width=60> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 
 
 ### Tools & Stack :fire:
