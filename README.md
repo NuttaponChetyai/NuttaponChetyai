@@ -24,5 +24,5 @@
 ### Connect with me :smiley:
 
 <a href="https://www.facebook.com/james.lovegift/">
-  <img align="left" alt="Nuttapon Chetyai Facebook" width="21px" src="https://github.com/adityakamath16/adityakamath16/blob/master/images/social/facebook.png" />
+  <img align="left" alt="Nuttapon Chetyai Facebook" width="21px" src="https://github.com/NuttaponChetyai/NuttaponChetyai/blob/master/images/social/facebook.png" />
 </a>
